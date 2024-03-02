@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  font-size: small;
+}
+
+.container {
+  padding: 20px;
+}
+
+.intro {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.note {
+  color: #5b5b5b;
+  padding: 10px;
+  border-left: 3px solid #646464;
+}
+
+h2 {
+  padding: 5px 0;
+  color: #646464;
+  font-size: small;
+  font-weight: 500;
+}
+
+a {
+  color: #b63d30; /* Adjust the color to match the dot */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.time {
+  font-style: italic;
+  color: #777;
+}
